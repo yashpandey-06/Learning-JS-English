@@ -22,5 +22,7 @@ let isloggedIn = false
 // symbol => jbb  unique ki baat krni ho tbb likh dete ahi
 
 console.log(typeof "YASH")
+console.log(typeof undefined)
+console.log(typeof null)
 
 // object
